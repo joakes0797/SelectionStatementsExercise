@@ -1,0 +1,14 @@
+D:\repos\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.exe
+D:\repos\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.deps.json
+D:\repos\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.runtimeconfig.json
+D:\repos\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.runtimeconfig.dev.json
+D:\repos\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.dll
+D:\repos\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.pdb
+D:\repos\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.csproj.AssemblyReference.cache
+D:\repos\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.AssemblyInfoInputs.cache
+D:\repos\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.AssemblyInfo.cs
+D:\repos\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.csproj.CoreCompileInputs.cache
+D:\repos\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.dll
+D:\repos\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.pdb
+D:\repos\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.genruntimeconfig.cache
